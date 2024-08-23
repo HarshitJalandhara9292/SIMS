@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$USER_HOME$/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/src/build/java/instrumentation/CommonChecks.java" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myproject (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Downloads" target="1.5" />
+      <module name="myproject" target="1.8" />
+      <module name="SIMS" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
